@@ -1,5 +1,5 @@
-const clientID = '3b41b4b126514c4fb0301dc0eb75976c'
-const redirectURI = 'spiteful-quiet.surge.sh'
+const clientID = '3b41b4b126514c4fb0301dc0eb75976c';
+const redirectURI = 'http://localhost:3000/callback/';
 
 let accessToken;
 
